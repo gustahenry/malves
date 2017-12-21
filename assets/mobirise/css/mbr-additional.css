@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -20,35 +20,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -635,7 +635,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1898,29 +1898,46 @@ body {
 .cid-qCMYfVRAyL .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qCMYfVRAyL H2 {
+  text-align: center;
+}
+.cid-qCMYfVRAyL P {
+  text-align: center;
+}
+.cid-qEoNx4DAnH {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qEoNx4DAnH .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qEoNx4DAnH .section-text {
+  padding: 2rem 0;
+}
+.cid-qEoNx4DAnH .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qEoNx4DAnH .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qCMYm4gyNT {
-  padding-top: 60px;
-  padding-bottom: 15px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-qCMYm4gyNT .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qCMYxl3Hc1 {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qCMYxl3Hc1 .mbr-text,
-.cid-qCMYxl3Hc1 blockquote {
-  color: #767676;
-}
-.cid-qCMYxl3Hc1 .mbr-text {
-  text-align: center;
-}
 .cid-qCMYVfBbGJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/background-site-1920x1080.jpg");
 }
 .cid-qCMYVfBbGJ .mbr-text {
@@ -2081,6 +2098,9 @@ body {
 }
 .cid-qCN3n3GGmZ B {
   color: #ffffff;
+}
+.cid-qCN3n3GGmZ .item-name B {
+  color: #232323;
 }
 .cid-qCN6z3Ho8i {
   padding-top: 90px;
